@@ -1,2 +1,2 @@
-# BadFormat
+# JavaScript.Format
 JavaScript String Formatter 
